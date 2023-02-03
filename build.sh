@@ -1,0 +1,1 @@
+gcc -g -w -Wall -Wextra -o test test.c -lcrypto
